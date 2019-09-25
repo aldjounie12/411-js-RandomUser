@@ -9,14 +9,26 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #214999;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(218, 189, 189);
+}
+
+h1 {
+  color: rgb(59, 59, 170);
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+p {
+  color: rgb(155, 43, 9);
+  text-align: center;
+  font-style: italic;
 }
 
 .App-link {
